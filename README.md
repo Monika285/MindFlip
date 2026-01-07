@@ -45,5 +45,5 @@ CSS – Styling and layout
 
 JavaScript – Game logic and interactivity
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed8364ac-dcc6-40c1-b14c-c68abf809700" />
+
 
